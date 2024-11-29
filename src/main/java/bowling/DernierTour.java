@@ -3,7 +3,11 @@ package bowling;
 /**
  * Le 10° tour, différent de tous les autres tours : Il peut avoir trois lancers
  * Il n'a pas de lancer suivant.
+<<<<<<< HEAD
   * La classe n'est pas publique, sa visibilité est limitée au package :::
+=======
+  * La classe n'est pas publique, sa visibilité est limitée au package
+>>>>>>> d896951a85ed6b8a42d24d58f1c712dc550ceb90
  */
 class DernierTour extends Tour {
 
